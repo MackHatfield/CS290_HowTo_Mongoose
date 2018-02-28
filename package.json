@@ -1,0 +1,25 @@
+{
+  "name": "how-to-mongoose",
+  "version": "1.0.0",
+  "description": "Simple app to demo mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MackHatfield/CS290_HowTo_Mongoose.git"
+  },
+  "author": "Mackenzie Hatfield",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MackHatfield/CS290_HowTo_Mongoose/issues"
+  },
+  "homepage": "https://github.com/MackHatfield/CS290_HowTo_Mongoose#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.3",
+    "mongoose": "^5.0.7"
+  }
+}
